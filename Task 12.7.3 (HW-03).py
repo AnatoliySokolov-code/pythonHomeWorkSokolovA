@@ -6,7 +6,3 @@ deposit.append(money*per_cent['СКБ']/100)
 deposit.append(money*per_cent['ВТБ']/100)
 deposit.append(money*per_cent['СБЕР']/100)
 print("Макисмальная сумма, которую Вы можете заработать:", max(deposit))
-
-
-
-
